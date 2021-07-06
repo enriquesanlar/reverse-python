@@ -15,5 +15,5 @@ def reverse(txt):
             print(txt)
         i += 1
 
-
+print("Escribe una cadena:")
 reverse(input())
